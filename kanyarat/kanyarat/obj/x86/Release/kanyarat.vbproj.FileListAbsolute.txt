@@ -1,0 +1,10 @@
+D:\kanya275-1\kanyarat\kanyarat\bin\Release\kanyarat.exe
+D:\kanya275-1\kanyarat\kanyarat\bin\Release\kanyarat.pdb
+D:\kanya275-1\kanyarat\kanyarat\bin\Release\kanyarat.xml
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.Resources.resources
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.vbproj.GenerateResource.Cache
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.exe
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.xml
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.pdb
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.frmLab1.resources
+D:\kanya275-1\kanyarat\kanyarat\obj\x86\Release\kanyarat.frmLab2.resources
